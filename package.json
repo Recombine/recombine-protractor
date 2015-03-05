@@ -1,5 +1,5 @@
 {
-  "name": "protractor",
+  "name": "recombine-protractor",
   "description": "Webdriver E2E test wrapper for Angular.",
   "homepage": "https://github.com/angular/protractor",
   "keywords": [
@@ -55,5 +55,5 @@
     "start": "node testapp/scripts/web-server.js"
   },
   "license": "MIT",
-  "version": "1.8.0"
+  "version": "1.8.1"
 }
